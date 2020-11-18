@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght,CASL@300..800,0.75&display=swap');
+:root{
+	--maincolor: #34cceb;
+	--darkMaincolor: #34cceb;
+	--hovercolor: #259bb3;
+}
+html {
+	font-family: 'Recursive', monospaced;
+	font-size: 16px;
+}
