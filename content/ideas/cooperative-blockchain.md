@@ -17,7 +17,7 @@ A usual association is one of the small farmers, which alone they could not take
 
 ## Blockchain
 
-A  ledger that is decentralized, no single owner of the registry holding all authority and data, to implement such features it uses cryptographic hashes (computer-generated sequence of letters and numbers based on the contents of the registry) that guarantee that no record is altered after being commited .
+A  ledger that is decentralized, no single owner of the registry holding all authority and data, to implement such features it uses cryptographic hashes[¹](https://en.wikipedia.org/wiki/Merkle_tree) (computer-generated sequence of letters and numbers based on the contents of the registry) that guarantee that no record is altered after being commited .
 
 ## How cooperatives benefit from it?
 
